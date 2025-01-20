@@ -28,12 +28,13 @@ const Hero: React.FC = () => {
               </h3>
 
               <h2 className="text-white text-[32px] sm:text-[24px] font-bold mt-3 text-center md:text-[28px]">
-                HIGH QUALITY MAKEUP
+              YOUR PERSONAL STYLE DESTINATION!
               </h2>
 
               <p className="text-gray-200 text-[16px] sm:text-[14px] w-[90%] max-w-[600px] text-center mt-3 md:text-[14px]">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore.
+              At Head$Toes, we believe fashion is about more than just clothing—it's about self-expression and confidence. 
+              Whether you're after the perfect dress for a night out, a cozy sweater for the weekend, or a standout accessory 
+              to elevate your style, we’ve got just what you need
               </p>
 
               <div className="w-full max-w-[600px] sm:max-w-[350px] h-[50px] flex bg-white mt-6 rounded-full items-center overflow-hidden">
@@ -63,12 +64,13 @@ const Hero: React.FC = () => {
               </h3>
 
               <h2 className="text-white text-[32px] sm:text-[24px] font-bold mt-3 text-center md:text-[28px]">
-                HIGH QUALITY MAKEUP KITS
+              YOUR PERSONAL STYLE DESTINATION!
               </h2>
 
               <p className="text-gray-200 text-[16px] sm:text-[14px] w-[90%] max-w-[600px] text-center mt-3 md:text-[14px]">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore.
+              At Head$Toes, we believe fashion is about more than just clothing—it's about self-expression and confidence. 
+              Whether you're after the perfect dress for a night out, a cozy sweater for the weekend, or a standout accessory 
+              to elevate your style, we’ve got just what you need
               </p>
 
               <div className="w-full max-w-[600px] sm:max-w-[350px] h-[50px] flex bg-white mt-6 rounded-full items-center overflow-hidden">
@@ -98,12 +100,13 @@ const Hero: React.FC = () => {
               </h3>
 
               <h2 className="text-white text-[32px] sm:text-[24px] font-bold mt-3 text-center md:text-[28px]">
-                HIGH QUALITY MAKEUPS
+              YOUR PERSONAL STYLE DESTINATION!
               </h2>
 
               <p className="text-gray-200 text-[16px] sm:text-[14px] w-[90%] max-w-[600px] text-center mt-3 md:text-[14px]">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore.
+              At Head$Toes, we believe fashion is about more than just clothing—it's about self-expression and confidence. 
+              Whether you're after the perfect dress for a night out, a cozy sweater for the weekend, or a standout accessory 
+              to elevate your style, we’ve got just what you need
               </p>
 
               <div className="w-full max-w-[600px] sm:max-w-[350px] h-[50px] flex bg-white mt-6 rounded-full items-center overflow-hidden">

@@ -9,12 +9,9 @@ const AboutSession = () => {
             <div className="w-full h-[97%] flex flex-col justify-center gap-5">
               <div className="text-[20px] md:text-[25px] leading-[28px] md:leading-[35px] text-[black]">
                 <Fade>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum
-                  minus facere magnam repudiandae quis deleniti repellendus
-                  sapiente adipisci necessitatibus assumenda, voluptate,
-                  accusantium culpa autem recusandae eum doloribus fugit minima
-                  perferendis quisquam, praesentium corporis officia ea
-                  voluptas! Omnis laborum dolorum nisi.
+                Founded in 2013, Head and Toe Clothing brings Nigerian-inspired urban fashion to 
+                the forefront. We offer unique, high-quality streetwear that celebrates Nigeria's vibrant culture. 
+                Our mission is to provide stylish, affordable clothing that lets you express your individuality with pride.
                 </Fade>
               </div>
               <button className="bg-[#F27E98] w-[120px] py-[10px] text-white rounded-[5px] hover:bg-white hover:text-[var(--myColor)] hover:cursor-pointer transition duration-300 ease-in-out hover:scale-[1.05]">

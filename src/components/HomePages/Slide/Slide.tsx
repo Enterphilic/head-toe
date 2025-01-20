@@ -10,12 +10,14 @@ const Slide: React.FC = () => {
             Look Good With Little Effort
           </h1>
           <p className="text-white w-[350px] text-start mt-4 text-lg  md:w-[60%]">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui
-            deserunt nesciunt, recusandae accusantium corrupti eius aut,
-            quibusdam molestias rerum dolor, similique ducimus quas inventore
-            alias. Quo dolores adipisci dolore earum maxime laboriosam quibusdam
-            architecto ut inventore nihil, est perspiciatis illo, fugit sunt
-            reiciendis, iste blanditiis. Harum magnam dolorem itaque quas?
+          Our story begins in September 2013, in the vibrant city of Lagos, Nigeria. Yomi, 
+          a young man with a keen eye for fashion, noticed something striking. Over time, the 
+          demand for new styles and designs in everyday clothing was growing rapidly among Nigeria’s 
+          young and middle-class population. But there was a glaring problem—genuine Nigerian-inspired urban 
+          clothing, like t-shirts, was hard to find. In fact, over 95% of the affordable yet stylish casual 
+          wear in the country came from foreign designers. Driven by his passion for design and his desire to r
+          epresent Nigerian culture, Yomi saw an opportunity to fill this gap. And so, Original Head and Toe Clothing 
+          was born—a brand dedicated to crafting fashion that truly spoke to Nigeria's unique urban style.
           </p>
         </div>
       </div>
